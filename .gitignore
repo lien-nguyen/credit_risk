@@ -1,0 +1,8 @@
+# Visual Studio
+
+*.vscode
+
+# Ignore Mac system files
+.DS_store
+*.tmp
+*.log
