@@ -1,4 +1,4 @@
-Creditworthiness Prediction (In progress)
+Creditworthiness Prediction
 -----------------------
 
 Predict whether or not a person is able to pay back his / her credit amount
